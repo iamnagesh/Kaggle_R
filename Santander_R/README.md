@@ -22,7 +22,7 @@ This competition is by far the most popular mainstream competition on kaggle and
 
 #### Words of wisdom:
 
-> I've always thought believing in ones validation is the key, but this competition proved that statement wrong. [I could have secured 80th place(not bragging) had I left just after I've submitted my first submission(not bragging at all)](https://www.kaggle.com/c/santander-customer-satisfaction/forums/t/20895/its-nobody-s-fault). Well, its just an excuse to keep myself motivated :wink:.
+> I've always(most of the times) thought believing in one's CV is the key to win a competition, but this competition proved me wrong. [I could have secured 80th place(not bragging) had I left just after my first submission(not bragging at all)](https://www.kaggle.com/c/santander-customer-satisfaction/forums/t/20895/its-nobody-s-fault). Well, its just an excuse to keep myself motivated :wink:.
 
 
 Finally, I still don't know whether Santander wants to minimize customer attrition by this competition because there a lot of reasons for a customer to leave(apart from dissatisifaction) and at times it has nothing to do with the customer(hope the guys at Santander know that).
