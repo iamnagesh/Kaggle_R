@@ -7,9 +7,9 @@ dissatisified. Click [here](https://www.kaggle.com/c/santander-customer-satisfac
 
 This competition is by far the most popular mainstream competition on kaggle and the reason I was so much intrested in it because **anyone can win** as there are so many features to mess around.
 
-#### Some of the challenges:
+#### Challenges:
 
-- The dataset is highly unbalanced(96:4)
+- The dataset is unbalanced(96:4)
 - There are a lot of variables :grin: but they are anonymized :disappointed:, which means we can not apply any industry knowledge
 - The data set has duplicate records. Sometimes these records don't have the same value in the dependent variable :anguished:
 - The dataset comprises of continuous vaiables(mostly) and mode of almost all the variables is 0
